@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "yarn --cwd test-app start",
+    "location": "yarn --cwd test-app location"
+  }
+}
